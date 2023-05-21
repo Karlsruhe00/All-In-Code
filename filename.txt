@@ -1,0 +1,1274 @@
+All seats 95928
+Available tickets:  9650
+Grey seat (sold or not open):  85215
+Resale:  769
+VIP Tickets:  289
+Checksum:  95923
+__________________________
+Section  103
+Overall Seats:  910
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  910
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  104
+Overall Seats:  894
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  893
+Resale Seats:  1
+VIP Seats:  0
+_________________________________________________
+Section  105
+Overall Seats:  766
+Available (Blue) Seats:  12
+Grey (Sold or not available) Seats:  749
+Resale Seats:  5
+VIP Seats:  0
+_________________________________________________
+Section  106
+Overall Seats:  726
+Available (Blue) Seats:  18
+Grey (Sold or not available) Seats:  701
+Resale Seats:  7
+VIP Seats:  0
+_________________________________________________
+Section  107
+Overall Seats:  295
+Available (Blue) Seats:  52
+Grey (Sold or not available) Seats:  242
+Resale Seats:  1
+VIP Seats:  0
+_________________________________________________
+Section  108
+Overall Seats:  720
+Available (Blue) Seats:  49
+Grey (Sold or not available) Seats:  665
+Resale Seats:  6
+VIP Seats:  0
+_________________________________________________
+Section  109
+Overall Seats:  780
+Available (Blue) Seats:  39
+Grey (Sold or not available) Seats:  729
+Resale Seats:  12
+VIP Seats:  0
+_________________________________________________
+Section  110
+Overall Seats:  878
+Available (Blue) Seats:  110
+Grey (Sold or not available) Seats:  750
+Resale Seats:  18
+VIP Seats:  0
+_________________________________________________
+Section  111
+Overall Seats:  936
+Available (Blue) Seats:  54
+Grey (Sold or not available) Seats:  880
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  112
+Overall Seats:  936
+Available (Blue) Seats:  134
+Grey (Sold or not available) Seats:  795
+Resale Seats:  7
+VIP Seats:  0
+_________________________________________________
+Section  547
+Overall Seats:  758
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  750
+Resale Seats:  8
+VIP Seats:  0
+_________________________________________________
+Section  549
+Overall Seats:  885
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  874
+Resale Seats:  11
+VIP Seats:  0
+_________________________________________________
+Section  548
+Overall Seats:  843
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  841
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  250
+Overall Seats:  338
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  338
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  251
+Overall Seats:  366
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  313
+Resale Seats:  7
+VIP Seats:  44
+_________________________________________________
+Section  249
+Overall Seats:  315
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  309
+Resale Seats:  6
+VIP Seats:  0
+_________________________________________________
+Section  551
+Overall Seats:  1020
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  992
+Resale Seats:  28
+VIP Seats:  0
+_________________________________________________
+Section  550
+Overall Seats:  942
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  923
+Resale Seats:  19
+VIP Seats:  0
+_________________________________________________
+Section  252
+Overall Seats:  207
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  207
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  552
+Overall Seats:  1046
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  1025
+Resale Seats:  21
+VIP Seats:  0
+_________________________________________________
+Section  113
+Overall Seats:  889
+Available (Blue) Seats:  112
+Grey (Sold or not available) Seats:  773
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  114
+Overall Seats:  773
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  762
+Resale Seats:  11
+VIP Seats:  0
+_________________________________________________
+Section  115
+Overall Seats:  844
+Available (Blue) Seats:  46
+Grey (Sold or not available) Seats:  796
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  116
+Overall Seats:  295
+Available (Blue) Seats:  82
+Grey (Sold or not available) Seats:  213
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  117
+Overall Seats:  840
+Available (Blue) Seats:  72
+Grey (Sold or not available) Seats:  768
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  118
+Overall Seats:  775
+Available (Blue) Seats:  36
+Grey (Sold or not available) Seats:  739
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  119
+Overall Seats:  903
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  893
+Resale Seats:  10
+VIP Seats:  0
+_________________________________________________
+Section  120
+Overall Seats:  954
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  943
+Resale Seats:  11
+VIP Seats:  0
+_________________________________________________
+Section  121
+Overall Seats:  942
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  941
+Resale Seats:  1
+VIP Seats:  0
+_________________________________________________
+Section  122
+Overall Seats:  951
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  951
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  538
+Overall Seats:  540
+Available (Blue) Seats:  305
+Grey (Sold or not available) Seats:  235
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  537
+Overall Seats:  599
+Available (Blue) Seats:  319
+Grey (Sold or not available) Seats:  280
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  544
+Overall Seats:  633
+Available (Blue) Seats:  314
+Grey (Sold or not available) Seats:  319
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  543
+Overall Seats:  673
+Available (Blue) Seats:  380
+Grey (Sold or not available) Seats:  293
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  546
+Overall Seats:  667
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  665
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  545
+Overall Seats:  589
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  587
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  540
+Overall Seats:  271
+Available (Blue) Seats:  40
+Grey (Sold or not available) Seats:  231
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  539
+Overall Seats:  270
+Available (Blue) Seats:  42
+Grey (Sold or not available) Seats:  228
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  542
+Overall Seats:  551
+Available (Blue) Seats:  277
+Grey (Sold or not available) Seats:  274
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  541
+Overall Seats:  549
+Available (Blue) Seats:  313
+Grey (Sold or not available) Seats:  236
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  123
+Overall Seats:  947
+Available (Blue) Seats:  3
+Grey (Sold or not available) Seats:  941
+Resale Seats:  3
+VIP Seats:  0
+_________________________________________________
+Section  124
+Overall Seats:  949
+Available (Blue) Seats:  18
+Grey (Sold or not available) Seats:  927
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  125
+Overall Seats:  951
+Available (Blue) Seats:  35
+Grey (Sold or not available) Seats:  916
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  126
+Overall Seats:  900
+Available (Blue) Seats:  70
+Grey (Sold or not available) Seats:  826
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  127
+Overall Seats:  778
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  778
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  128
+Overall Seats:  838
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  838
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  129
+Overall Seats:  295
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  295
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  130
+Overall Seats:  847
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  847
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  131
+Overall Seats:  773
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  768
+Resale Seats:  5
+VIP Seats:  0
+_________________________________________________
+Section  132
+Overall Seats:  884
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  884
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  236
+Overall Seats:  265
+Available (Blue) Seats:  85
+Grey (Sold or not available) Seats:  176
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  237
+Overall Seats:  300
+Available (Blue) Seats:  142
+Grey (Sold or not available) Seats:  158
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  234
+Overall Seats:  241
+Available (Blue) Seats:  81
+Grey (Sold or not available) Seats:  160
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  235
+Overall Seats:  243
+Available (Blue) Seats:  112
+Grey (Sold or not available) Seats:  131
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  238
+Overall Seats:  301
+Available (Blue) Seats:  144
+Grey (Sold or not available) Seats:  157
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  229
+Overall Seats:  322
+Available (Blue) Seats:  1
+Grey (Sold or not available) Seats:  316
+Resale Seats:  5
+VIP Seats:  0
+_________________________________________________
+Section  232
+Overall Seats:  235
+Available (Blue) Seats:  1
+Grey (Sold or not available) Seats:  234
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  233
+Overall Seats:  238
+Available (Blue) Seats:  47
+Grey (Sold or not available) Seats:  191
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  230
+Overall Seats:  305
+Available (Blue) Seats:  11
+Grey (Sold or not available) Seats:  290
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  231
+Overall Seats:  249
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  246
+Resale Seats:  3
+VIP Seats:  0
+_________________________________________________
+Section  133
+Overall Seats:  939
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  939
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  134
+Overall Seats:  929
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  929
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  135
+Overall Seats:  890
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  890
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  136
+Overall Seats:  770
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  762
+Resale Seats:  8
+VIP Seats:  0
+_________________________________________________
+Section  137
+Overall Seats:  731
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  729
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  138
+Overall Seats:  294
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  284
+Resale Seats:  10
+VIP Seats:  0
+_________________________________________________
+Section  139
+Overall Seats:  718
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  716
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  140
+Overall Seats:  777
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  777
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  141
+Overall Seats:  881
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  875
+Resale Seats:  6
+VIP Seats:  0
+_________________________________________________
+Section  142
+Overall Seats:  926
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  925
+Resale Seats:  1
+VIP Seats:  0
+_________________________________________________
+Section  247
+Overall Seats:  243
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  238
+Resale Seats:  5
+VIP Seats:  0
+_________________________________________________
+Section  248
+Overall Seats:  270
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  266
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  245
+Overall Seats:  246
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  239
+Resale Seats:  7
+VIP Seats:  0
+_________________________________________________
+Section  246
+Overall Seats:  241
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  234
+Resale Seats:  7
+VIP Seats:  0
+_________________________________________________
+Section  239
+Overall Seats:  303
+Available (Blue) Seats:  136
+Grey (Sold or not available) Seats:  167
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  240
+Overall Seats:  287
+Available (Blue) Seats:  126
+Grey (Sold or not available) Seats:  161
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  243
+Overall Seats:  269
+Available (Blue) Seats:  141
+Grey (Sold or not available) Seats:  128
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  244
+Overall Seats:  238
+Available (Blue) Seats:  170
+Grey (Sold or not available) Seats:  68
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  241
+Overall Seats:  313
+Available (Blue) Seats:  153
+Grey (Sold or not available) Seats:  160
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  144
+Overall Seats:  674
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  674
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  242
+Overall Seats:  304
+Available (Blue) Seats:  148
+Grey (Sold or not available) Seats:  156
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  AA"
+Overall Seats:  88
+Available (Blue) Seats:  2
+Grey (Sold or not available) Seats:  86
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  BB"
+Overall Seats:  30
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  30
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  CC"
+Overall Seats:  30
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  30
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  DD"
+Overall Seats:  88
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  88
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  EE"
+Overall Seats:  88
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  88
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  515
+Overall Seats:  542
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  532
+Resale Seats:  10
+VIP Seats:  0
+_________________________________________________
+Section  A" 
+Overall Seats:  330
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  330
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  514
+Overall Seats:  270
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  262
+Resale Seats:  8
+VIP Seats:  0
+_________________________________________________
+Section  B" 
+Overall Seats:  240
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  239
+Resale Seats:  1
+VIP Seats:  0
+_________________________________________________
+Section  C" 
+Overall Seats:  41
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  41
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  516
+Overall Seats:  609
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  580
+Resale Seats:  29
+VIP Seats:  0
+_________________________________________________
+Section  D" 
+Overall Seats:  244
+Available (Blue) Seats:  13
+Grey (Sold or not available) Seats:  229
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  511
+Overall Seats:  601
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  599
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  510
+Overall Seats:  619
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  613
+Resale Seats:  6
+VIP Seats:  0
+_________________________________________________
+Section  513
+Overall Seats:  261
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  257
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  507
+Overall Seats:  667
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  615
+Resale Seats:  52
+VIP Seats:  0
+_________________________________________________
+Section  E" 
+Overall Seats:  244
+Available (Blue) Seats:  23
+Grey (Sold or not available) Seats:  219
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  509
+Overall Seats:  645
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  614
+Resale Seats:  31
+VIP Seats:  0
+_________________________________________________
+Section  F" 
+Overall Seats:  88
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  88
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  508
+Overall Seats:  589
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  585
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  G" 
+Overall Seats:  176
+Available (Blue) Seats:  6
+Grey (Sold or not available) Seats:  170
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  H" 
+Overall Seats:  240
+Available (Blue) Seats:  2
+Grey (Sold or not available) Seats:  238
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  J" 
+Overall Seats:  330
+Available (Blue) Seats:  10
+Grey (Sold or not available) Seats:  320
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  K" 
+Overall Seats:  240
+Available (Blue) Seats:  4
+Grey (Sold or not available) Seats:  235
+Resale Seats:  1
+VIP Seats:  0
+_________________________________________________
+Section  L" 
+Overall Seats:  242
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  242
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  504
+Overall Seats:  873
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  829
+Resale Seats:  44
+VIP Seats:  0
+_________________________________________________
+Section  M" 
+Overall Seats:  374
+Available (Blue) Seats:  4
+Grey (Sold or not available) Seats:  368
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  503
+Overall Seats:  938
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  894
+Resale Seats:  44
+VIP Seats:  0
+_________________________________________________
+Section  228
+Overall Seats:  330
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  330
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  N" 
+Overall Seats:  242
+Available (Blue) Seats:  2
+Grey (Sold or not available) Seats:  240
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  506
+Overall Seats:  755
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  738
+Resale Seats:  17
+VIP Seats:  0
+_________________________________________________
+Section  227
+Overall Seats:  337
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  335
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  P" 
+Overall Seats:  240
+Available (Blue) Seats:  2
+Grey (Sold or not available) Seats:  238
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  505
+Overall Seats:  856
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  844
+Resale Seats:  12
+VIP Seats:  0
+_________________________________________________
+Section  226
+Overall Seats:  317
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  315
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  225
+Overall Seats:  330
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  329
+Resale Seats:  1
+VIP Seats:  0
+_________________________________________________
+Section  224
+Overall Seats:  323
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  321
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  223
+Overall Seats:  302
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  298
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  222
+Overall Seats:  257
+Available (Blue) Seats:  15
+Grey (Sold or not available) Seats:  242
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  221
+Overall Seats:  236
+Available (Blue) Seats:  30
+Grey (Sold or not available) Seats:  206
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  220
+Overall Seats:  228
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  228
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  219
+Overall Seats:  260
+Available (Blue) Seats:  25
+Grey (Sold or not available) Seats:  235
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  502
+Overall Seats:  1021
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  998
+Resale Seats:  23
+VIP Seats:  0
+_________________________________________________
+Section  501
+Overall Seats:  1048
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  1004
+Resale Seats:  44
+VIP Seats:  0
+_________________________________________________
+Section  S" 
+Overall Seats:  264
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  264
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  R" 
+Overall Seats:  264
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  264
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  Q" 
+Overall Seats:  244
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  244
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  T" 
+Overall Seats:  264
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  264
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  U" 
+Overall Seats:  244
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  244
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  V" 
+Overall Seats:  288
+Available (Blue) Seats:  2
+Grey (Sold or not available) Seats:  286
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  W" 
+Overall Seats:  308
+Available (Blue) Seats:  1
+Grey (Sold or not available) Seats:  307
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  X" 
+Overall Seats:  308
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  308
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  218
+Overall Seats:  238
+Available (Blue) Seats:  22
+Grey (Sold or not available) Seats:  216
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  Y" 
+Overall Seats:  308
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  308
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  536
+Overall Seats:  610
+Available (Blue) Seats:  296
+Grey (Sold or not available) Seats:  314
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  217
+Overall Seats:  267
+Available (Blue) Seats:  71
+Grey (Sold or not available) Seats:  195
+Resale Seats:  1
+VIP Seats:  0
+_________________________________________________
+Section  Z" 
+Overall Seats:  288
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  288
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  216
+Overall Seats:  303
+Available (Blue) Seats:  72
+Grey (Sold or not available) Seats:  231
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  215
+Overall Seats:  301
+Available (Blue) Seats:  34
+Grey (Sold or not available) Seats:  267
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  214
+Overall Seats:  299
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  297
+Resale Seats:  2
+VIP Seats:  0
+_________________________________________________
+Section  213
+Overall Seats:  302
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  302
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  212
+Overall Seats:  304
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  304
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  211
+Overall Seats:  305
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  302
+Resale Seats:  3
+VIP Seats:  0
+_________________________________________________
+Section  210
+Overall Seats:  267
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  267
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  209
+Overall Seats:  239
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  238
+Resale Seats:  1
+VIP Seats:  0
+_________________________________________________
+Section  527
+Overall Seats:  915
+Available (Blue) Seats:  329
+Grey (Sold or not available) Seats:  581
+Resale Seats:  5
+VIP Seats:  0
+_________________________________________________
+Section  533
+Overall Seats:  769
+Available (Blue) Seats:  269
+Grey (Sold or not available) Seats:  500
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  532
+Overall Seats:  861
+Available (Blue) Seats:  11
+Grey (Sold or not available) Seats:  846
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  535
+Overall Seats:  659
+Available (Blue) Seats:  322
+Grey (Sold or not available) Seats:  337
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  534
+Overall Seats:  692
+Available (Blue) Seats:  298
+Grey (Sold or not available) Seats:  394
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  529
+Overall Seats:  1112
+Available (Blue) Seats:  503
+Grey (Sold or not available) Seats:  602
+Resale Seats:  7
+VIP Seats:  0
+_________________________________________________
+Section  528
+Overall Seats:  1162
+Available (Blue) Seats:  441
+Grey (Sold or not available) Seats:  712
+Resale Seats:  9
+VIP Seats:  0
+_________________________________________________
+Section  531
+Overall Seats:  957
+Available (Blue) Seats:  186
+Grey (Sold or not available) Seats:  765
+Resale Seats:  6
+VIP Seats:  0
+_________________________________________________
+Section  530
+Overall Seats:  1051
+Available (Blue) Seats:  523
+Grey (Sold or not available) Seats:  516
+Resale Seats:  12
+VIP Seats:  0
+_________________________________________________
+Section  208
+Overall Seats:  254
+Available (Blue) Seats:  72
+Grey (Sold or not available) Seats:  182
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  526
+Overall Seats:  916
+Available (Blue) Seats:  348
+Grey (Sold or not available) Seats:  553
+Resale Seats:  15
+VIP Seats:  0
+_________________________________________________
+Section  207
+Overall Seats:  238
+Available (Blue) Seats:  35
+Grey (Sold or not available) Seats:  203
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  525
+Overall Seats:  1157
+Available (Blue) Seats:  387
+Grey (Sold or not available) Seats:  750
+Resale Seats:  20
+VIP Seats:  0
+_________________________________________________
+Section  206
+Overall Seats:  253
+Available (Blue) Seats:  8
+Grey (Sold or not available) Seats:  245
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  ZE"
+Overall Seats:  264
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  264
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  205
+Overall Seats:  261
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  261
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  ZD"
+Overall Seats:  264
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  264
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  204
+Overall Seats:  308
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  308
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  ZC"
+Overall Seats:  264
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  264
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  203
+Overall Seats:  338
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  338
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  ZB"
+Overall Seats:  264
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  264
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  202
+Overall Seats:  367
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  294
+Resale Seats:  3
+VIP Seats:  69
+_________________________________________________
+Section  ZA"
+Overall Seats:  264
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  264
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  201
+Overall Seats:  193
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  193
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  143
+Overall Seats:  783
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  783
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  101
+Overall Seats:  649
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  649
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  102
+Overall Seats:  805
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  805
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  522
+Overall Seats:  966
+Available (Blue) Seats:  65
+Grey (Sold or not available) Seats:  885
+Resale Seats:  16
+VIP Seats:  0
+_________________________________________________
+Section  521
+Overall Seats:  858
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  857
+Resale Seats:  1
+VIP Seats:  0
+_________________________________________________
+Section  524
+Overall Seats:  1114
+Available (Blue) Seats:  337
+Grey (Sold or not available) Seats:  662
+Resale Seats:  12
+VIP Seats:  103
+_________________________________________________
+Section  523
+Overall Seats:  1045
+Available (Blue) Seats:  161
+Grey (Sold or not available) Seats:  798
+Resale Seats:  13
+VIP Seats:  73
+_________________________________________________
+Section  518
+Overall Seats:  641
+Available (Blue) Seats:  121
+Grey (Sold or not available) Seats:  520
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  517
+Overall Seats:  619
+Available (Blue) Seats:  43
+Grey (Sold or not available) Seats:  576
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
+Section  520
+Overall Seats:  771
+Available (Blue) Seats:  0
+Grey (Sold or not available) Seats:  767
+Resale Seats:  4
+VIP Seats:  0
+_________________________________________________
+Section  519
+Overall Seats:  697
+Available (Blue) Seats:  125
+Grey (Sold or not available) Seats:  572
+Resale Seats:  0
+VIP Seats:  0
+_________________________________________________
